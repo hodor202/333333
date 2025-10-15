@@ -1,6 +1,3 @@
-# pigpio wave stepper: slow start + gentle ramp + 5s cruise
-# Works on ANY GPIO for STEP (uses waveforms). Direction fixed one way for 5s.
-
 import time
 import pigpio
 
